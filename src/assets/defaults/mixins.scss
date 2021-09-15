@@ -1,0 +1,35 @@
+@mixin background($backGroundNum, $withBorders: none) {
+  background: var(--bg + $backGroundNum);
+  color: var(--col + $backGroundNum);
+
+  @if $withBorders == all {
+    border-top: 1px solid var(--borderColor + $backGroundNum + '-1');
+    border-bottom: 1px solid var(--borderColor + $backGroundNum + '-2');
+    border-left: 1px solid var(--borderColor + $backGroundNum + '-1');
+    border-right: 1px solid var(--borderColor + $backGroundNum + '-2');
+  } @else if $withBorders == 'top-bottom' {
+    border-top: 1px solid var(--borderColor + $backGroundNum + '-1');
+    border-bottom: 1px solid var(--borderColor + $backGroundNum + '-2');
+  }
+}
+
+@mixin activeBackground {
+  background: var(--accent-bg);
+  color: var(--accent-col);
+  border-top: 1px solid var(--accent-bg-border-1);
+  border-bottom: 1px solid var(--accent-bg-border-2);
+  border-left: 1px solid var(--accent-bg-border-1);
+  border-right: 1px solid var(--accent-bg-border-2);
+}
+
+@mixin ellipsis($width, $inline: '') {
+  @if $inline == '' {
+    display: block;
+  } @else {
+    display: $inline;
+  }
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: $width;
+}

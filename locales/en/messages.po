@@ -1,0 +1,1189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:498
+msgid "(Withdraw can take up to 40s. Please wait ⏳︎)"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/QuickFilter.jsx:19
+msgid "12H"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:84
+msgid "2 days"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/QuickFilter.jsx:20
+msgid "24H"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/QuickFilter.jsx:16
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:99
+msgid "3H"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/QuickFilter.jsx:17
+msgid "6H"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/QuickFilter.jsx:18
+msgid "9H"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:786
+msgid "Accept Odds Changes"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:44
+msgid "Accept any higher odd"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:56
+msgid "Accept any odd"
+msgstr ""
+
+#: utils/payments.js:279
+#: utils/payments.js:304
+#: utils/payments.js:329
+msgid "Account Name"
+msgstr ""
+
+#: utils/payments.js:710
+#: utils/payments.js:793
+msgid "Account Number"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:41
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:66
+msgid "Account Statement"
+msgstr ""
+
+#: utils/payments.js:496
+msgid "Account Type"
+msgstr ""
+
+#: utils/payments.js:374
+#: utils/payments.js:812
+msgid "Account number"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:659
+msgid "Actions"
+msgstr ""
+
+#: utils/payments.js:20
+msgid "Address"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:87
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:109
+#: src-web/routes/public/prematch/comps/left-column/QuickFilter.jsx:15
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:93
+msgid "All"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/shared/SubNav.jsx:19
+msgid "All Events"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:32
+msgid "Always Ask"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:151
+msgid "American"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:139
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:652
+#: src-web/coupon/Coupon.jsx:444
+msgid "Amount"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:188
+msgid "Amount Col"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SportMenu.jsx:16
+msgid "Antepost"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:142
+msgid "Balance"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:386
+msgid "Balanced"
+msgstr ""
+
+#: utils/payments.js:18
+msgid "Bank"
+msgstr ""
+
+#: utils/payments.js:491
+msgid "Bank Account"
+msgstr ""
+
+#: utils/payments.js:511
+msgid "Beneficiary Birthdate"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:216
+msgid "Bet Amount"
+msgstr ""
+
+#: src-web/routes/public/home/Home.jsx:102
+msgid "Bet Now"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/LeftMenu.jsx:86
+msgid "Bet Services"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:318
+msgid "Bet Type"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:58
+msgid "Bet-list"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/Tabs.jsx:245
+msgid "Betbuq View"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:163
+msgid "Betlist"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:14
+msgid "Betlists"
+msgstr ""
+
+#: src-web/coupon/Betslip.jsx:19
+msgid "Betslip"
+msgstr ""
+
+#: utils/payments.js:664
+msgid "Birthday"
+msgstr ""
+
+#: default-skin/template-helpers/routes.helper.js:58
+msgid "Bonus"
+msgstr ""
+
+#: utils/payments.js:606
+msgid "CFP number"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:43
+#: src-web/coupon/Coupon.jsx:122
+#: src-web/coupon/Coupon.jsx:179
+msgid "CONTINUE"
+msgstr ""
+
+#: src-web/routes/public/live/components/LiveMenu.jsx:55
+msgid "Calendar"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:344
+#: src-web/coupon/Coupon.jsx:799
+msgid "Cancel"
+msgstr ""
+
+#: utils/payments.js:16
+msgid "Card Number"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:252
+msgid "Cashier Code"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:48
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:321
+msgid "Cashout"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:191
+msgid "Casino"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:202
+msgid "Casino Live"
+msgstr ""
+
+#: src-web/components/Header.jsx:161
+#: src-web/components/UserLoginPopUp/index.jsx:27
+msgid "Change Password"
+msgstr ""
+
+#: src-web/routes/public/home/Home.jsx:92
+msgid "Chat with us"
+msgstr ""
+
+#: utils/payments.js:516
+msgid "City"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:333
+msgid "Closing Date"
+msgstr ""
+
+#: src-web/routes/public/TransferMessage/index.jsx:68
+msgid "Closing Window in"
+msgstr ""
+
+#: utils/payments.js:17
+msgid "Coin"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:330
+msgid "Columns Number"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:441
+msgid "Comb."
+msgstr ""
+
+#: src-web/routes/public/home/Home.jsx:80
+msgid "Come and make your bet"
+msgstr ""
+
+#: utils/payments.js:521
+msgid "Comment"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:532
+msgid "Cost. Import"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:358
+msgid "Created"
+msgstr ""
+
+#: utils/payments.js:15
+msgid "Currency"
+msgstr ""
+
+#: src-web/components/Header.jsx:65
+msgid "Customer Service 24/7"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/shared/SubNav.jsx:15
+msgid "Daily Events"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:646
+#: src-web/coupon/PrintCoupon.jsx:98
+msgid "Date"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:312
+msgid "Date & ID"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:133
+msgid "Date/Time"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:139
+msgid "Decimal"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:71
+msgid "Default Stake"
+msgstr ""
+
+#: src-web/components/Header.jsx:199
+#: src-web/components/UserLoginPopUp/index.jsx:46
+#: src-web/routes/public/casino/CasinoGame.jsx:265
+msgid "Deposit"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:136
+msgid "Description"
+msgstr ""
+
+#: src-web/components/Header.jsx:151
+#: src-web/components/UserLoginPopUp/index.jsx:19
+msgid "Documents"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SportMenu.jsx:401
+msgid "Dont Show again!"
+msgstr ""
+
+#: src-web/components/Header.jsx:30
+#: src-web/components/Header.jsx:76
+msgid "E-mail"
+msgstr ""
+
+#: src-web/components/Header.jsx:168
+msgid "Esci"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:638
+#~ msgid "Esegui"
+#~ msgstr ""
+
+#: default-skin/template-helpers/routes.helper.js:56
+#: src-web/routes/public/prematch/comps/left-column/SportMenu.jsx:17
+msgid "Esports"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/Tabs.jsx:246
+msgid "European View"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/Elites.jsx:101
+#: src-web/routes/public/prematch/comps/middle-column/LastMinute.jsx:74
+#: src-web/routes/public/prematch/comps/shared/Widget.jsx:208
+msgid "Event"
+msgstr ""
+
+#: src-web/routes/public/live/components/Calendar/index.jsx:102
+msgid "Event Date"
+msgstr ""
+
+#: src-web/routes/public/live/components/Calendar/index.jsx:96
+msgid "Event ID"
+msgstr ""
+
+#: src-web/routes/public/live/components/Calendar/index.jsx:99
+msgid "Event Name"
+msgstr ""
+
+#: src-web/routes/public/live/components/Calendar/index.jsx:105
+msgid "Event Sport"
+msgstr ""
+
+#: src-web/routes/public/live/components/LiveMenu.jsx:47
+msgid "Event View"
+msgstr ""
+
+#: src-web/routes/public/live/components/EventView/Menu.jsx:309
+msgid "Events Online"
+msgstr ""
+
+#: utils/payments.js:63
+#: utils/payments.js:137
+msgid "Expire Month"
+msgstr ""
+
+#: utils/payments.js:68
+#: utils/payments.js:142
+msgid "Expire Year"
+msgstr ""
+
+#: src-web/routes/public/casino/Components.jsx:21
+msgid "Explore"
+msgstr ""
+
+#: src-web/routes/public/live/components/EventView/Menu.jsx:353
+#: src-web/routes/public/live/components/OverView/Sports.jsx:27
+msgid "Favorites"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:218
+msgid "File format is not allowed. Upload only images/pdf."
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:562
+msgid "Fill input details."
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:102
+msgid "Filter"
+msgstr ""
+
+#: src-web/routes/public/casino/Components.jsx:375
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:39
+msgid "Filters"
+msgstr ""
+
+#: utils/payments.js:692
+msgid "Financial institution"
+msgstr ""
+
+#: utils/payments.js:669
+msgid "First Name"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:255
+msgid "Football Betting is 90 Minutes, Injury Time is included but this Does not include Extra Time or Penalties, Unless otherwise Stated When Placing Your Bet."
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:145
+msgid "Fractional"
+msgstr ""
+
+#: utils/payments.js:715
+msgid "Full Name"
+msgstr ""
+
+#: utils/payments.js:766
+msgid "Full name"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:156
+msgid "GOOD LUCK!"
+msgstr ""
+
+#: src-web/routes/public/casino/CasinoGame.jsx:396
+msgid "Games"
+msgstr ""
+
+#: src-web/routes/public/live/components/LiveMenu.jsx:39
+msgid "General View"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/shared/SubNav.jsx:32
+msgid "Help"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:157
+msgid "Hong kong"
+msgstr ""
+
+#: src-web/routes/public/casino/CasinoGame.jsx:357
+msgid "How would you rate this game?"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:130
+msgid "ID"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:575
+msgid "Import :"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/shared/SubNav.jsx:23
+msgid "In Play Calendar"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/LeftMenu.jsx:66
+msgid "In-Play"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:169
+msgid "Indo"
+msgstr ""
+
+#: src-web/components/Header.jsx:57
+msgid "Inserisci il tuo email per favore."
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SearchEvent.jsx:49
+msgid "Insert the events name or at least one team in the form below"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:680
+msgid "Integral"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:351
+msgid "Integral Stake.."
+msgstr ""
+
+#: src-web/components/Header.jsx:45
+#: src-web/components/Header.jsx:80
+msgid "Invia"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/LastMinute.jsx:40
+msgid "Last Minute"
+msgstr ""
+
+#: utils/payments.js:674
+msgid "Last Name"
+msgstr ""
+
+#: utils/payments.js:460
+msgid "Last name"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/shared/Widget.jsx:203
+msgid "Live"
+msgstr ""
+
+#: default-skin/template-helpers/routes.helper.js:57
+msgid "Live Casino"
+msgstr ""
+
+#: src-web/routes/public/home/Home.jsx:90
+msgid "Live Chat"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/LeftMenu.jsx:93
+msgid "Live Score"
+msgstr ""
+
+#: default-skin/template-helpers/routes.helper.js:55
+msgid "Livebetting"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SportMenu.jsx:355
+#: src-web/routes/public/prematch/comps/middle-column/Elites.jsx:162
+#: src-web/routes/public/prematch/comps/middle-column/LastMinute.jsx:114
+#: src-web/routes/public/prematch/comps/middle-column/Tabs.jsx:362
+#: src-web/routes/public/prematch/comps/shared/Widget.jsx:302
+msgid "Load More"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:817
+msgid "Loading!!"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/Tabs.jsx:360
+msgid "Loading!!!"
+msgstr ""
+
+#: src-web/components/Header.jsx:315
+msgid "Login"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:30
+msgid "Logs"
+msgstr ""
+
+#: src-web/components/Header.jsx:54
+msgid "Lost your password ?"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:163
+msgid "Malay"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/Tabs.jsx:117
+msgid "Matches"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:410
+msgid "Max"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:222
+msgid "Max Win"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:528
+msgid "Max. Import"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:404
+msgid "Min"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:219
+msgid "Min Win"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:524
+msgid "Min. Import"
+msgstr ""
+
+#: utils/payments.js:19
+msgid "Mobile"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:86
+msgid "Month"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:680
+msgid "Multipla"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:461
+msgid "Multiple"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:201
+msgid "Multiple to"
+msgstr ""
+
+#: src-web/components/Header.jsx:35
+#: utils/payments.js:455
+msgid "Name"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SportMenu.jsx:479
+msgid "No E-sports available for this filter!"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:327
+msgid "No Events"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SportMenu.jsx:493
+msgid "No antespost-sports available for this filter!"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:645
+msgid "No bet has been selected. To select a bet, please click on the respective odds"
+msgstr ""
+
+#: src-web/routes/public/live/components/EventView/Menu.jsx:379
+msgid "No favorites!"
+msgstr ""
+
+#: src-web/routes/public/live/components/EventView/Menu.jsx:132
+msgid "No odds right now"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SportMenu.jsx:466
+msgid "No sports available for this filter!"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:130
+msgid "Not allowed for those under 21 years of age!"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:695
+msgid "Odds"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:176
+msgid "Odds Total"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:196
+msgid "Odds Type"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:336
+msgid "Outcome"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:375
+msgid "Paid"
+msgstr ""
+
+#: src-web/components/Header.jsx:40
+#: src-web/components/Header.jsx:282
+msgid "Password"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:649
+msgid "Payment"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:366
+msgid "Pending"
+msgstr ""
+
+#: utils/payments.js:309
+#: utils/payments.js:334
+msgid "Phone number"
+msgstr ""
+
+#: utils/payments.js:147
+msgid "Pin Code"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:819
+msgid "Place Bet"
+msgstr ""
+
+#: src-web/routes/public/home/Home.jsx:104
+msgid "Place your bet"
+msgstr ""
+
+#: src-web/routes/public/casino/CasinoGame.jsx:283
+msgid "Play for fun"
+msgstr ""
+
+#: src-web/routes/public/casino/CasinoGame.jsx:291
+msgid "Play for real"
+msgstr ""
+
+#: src-web/components/CrazyHour.jsx:21
+msgid "Play time starts in:"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:218
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:259
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:304
+msgid "Please SELECT at least one tournament!"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:106
+msgid "Please note that the odds may change untill bet confirmation."
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:764
+msgid "Please set an unit stake to place a bet!"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:213
+msgid "Poker"
+msgstr ""
+
+#: src-web/routes/public/casino/Casino.jsx:373
+msgid "Popular"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:60
+msgid "Possible Win:"
+msgstr ""
+
+#: utils/payments.js:470
+msgid "Postal Code"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:397
+msgid "Potential Winning"
+msgstr ""
+
+#: src-web/components/Footer.jsx:120
+msgid "Powered By"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:108
+msgid "Print Date"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:116
+#: src-web/coupon/Coupon.jsx:170
+#: src-web/coupon/Coupon.jsx:222
+msgid "Print Ticket"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:31
+msgid "Privacy"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:536
+msgid "Procces Time"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:377
+msgid "Proccesing"
+msgstr ""
+
+#: src-web/components/Header.jsx:146
+msgid "Profile"
+msgstr ""
+
+#: src-web/routes/public/casino/CasinoGame.jsx:402
+msgid "Promozioni"
+msgstr ""
+
+#: src-web/routes/public/casino/Components.jsx:259
+msgid "Providers"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/QuickFilter.jsx:37
+msgid "Quick Filter"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:40
+#: src-web/coupon/Coupon.jsx:113
+#: src-web/coupon/Coupon.jsx:160
+#: src-web/coupon/Coupon.jsx:219
+msgid "REPEAT BET"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:88
+msgid "Range"
+msgstr ""
+
+#: utils/payments.js:284
+msgid "Reference"
+msgstr ""
+
+#: src-web/components/Header.jsx:19
+#: src-web/components/Header.jsx:321
+#: src-web/components/Header.jsx:326
+msgid "Register"
+msgstr ""
+
+#: src-web/routes/public/live/components/OverView/index.jsx:156
+msgid "Remove all favorites"
+msgstr ""
+
+#: src-web/components/Header.jsx:307
+msgid "Reset Password"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/LeftMenu.jsx:99
+msgid "Result"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:104
+#: src-web/coupon/Coupon.jsx:794
+msgid "Save"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:88
+msgid "Scan and check the status of your ticket! Faster!"
+msgstr ""
+
+#: src-web/components/Header.jsx:60
+msgid "Se non lo ricordi, contatta il nostro dipartimento di assistenza 24/7"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:124
+#: src-web/routes/public/prematch/comps/left-column/SearchEvent.jsx:79
+msgid "Search"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SearchEvent.jsx:38
+#: src-web/routes/public/prematch/comps/left-column/SearchEvent.jsx:64
+msgid "Search Event"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SearchEvent.jsx:94
+msgid "Search Results"
+msgstr ""
+
+#: src-web/routes/public/live/components/OverView/Sports.jsx:67
+msgid "Searched Event"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SearchEvent.jsx:79
+msgid "Searching.."
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:145
+msgid "Select"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:194
+msgid "Select file"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:503
+msgid "Select method"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:34
+msgid "Self Exclusion"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:22
+msgid "Self Limitation"
+msgstr ""
+
+#: src-web/components/Header.jsx:156
+msgid "Self Limits"
+msgstr ""
+
+#: utils/payments.js:214
+msgid "Sender Name"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:774
+msgid "Set stake to place a bet!"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:203
+msgid "Settings"
+msgstr ""
+
+#: src-web/routes/public/casino/Casino.jsx:380
+#: src-web/routes/public/casino/Components.jsx:121
+msgid "Show all"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:673
+msgid "Single"
+msgstr ""
+
+#: src-web/routes/public/home/Home.jsx:78
+msgid "SpoortBook"
+msgstr ""
+
+#: default-skin/template-helpers/routes.helper.js:54
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:180
+msgid "Sport"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/shared/SubNav.jsx:11
+msgid "Sport Home"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/LeftMenu.jsx:21
+msgid "Sport Menu"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SportMenu.jsx:15
+msgid "Sports"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:324
+#: src-web/coupon/Coupon.jsx:335
+#: src-web/coupon/Coupon.jsx:715
+msgid "Stake"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:364
+#: src-web/coupon/Coupon.jsx:722
+msgid "Stake.."
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/Elites.jsx:95
+#: src-web/routes/public/prematch/comps/middle-column/LastMinute.jsx:68
+#: src-web/routes/public/prematch/comps/middle-column/Tabs.jsx:120
+#: src-web/routes/public/prematch/comps/shared/Widget.jsx:203
+msgid "Stats"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:339
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:655
+msgid "Status"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:638
+msgid "Submit"
+msgstr ""
+
+#: src-web/components/Header.jsx:334
+msgid "Support"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:684
+msgid "System"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:232
+msgid "There are no tournaments for this filter!"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:101
+msgid "Ticket"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:50
+msgid "Ticket not found! Please check your ticket ID!!!"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/Elites.jsx:98
+#: src-web/routes/public/prematch/comps/middle-column/LastMinute.jsx:71
+#: src-web/routes/public/prematch/comps/shared/Widget.jsx:205
+msgid "Time"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:83
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:105
+msgid "Today"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:111
+msgid "Tomorrow"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/Elites.jsx:65
+msgid "Top Leagues"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:356
+#: src-web/coupon/Coupon.jsx:713
+msgid "Total Stake"
+msgstr ""
+
+#: default-skin/template-helpers/routes.helper.js:59
+msgid "Tourns"
+msgstr ""
+
+#: utils/payments.js:340
+msgid "Transaction ID"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:13
+msgid "Transactions"
+msgstr ""
+
+#: utils/payments.js:219
+msgid "Transfer Date"
+msgstr ""
+
+#: utils/payments.js:687
+msgid "Transit"
+msgstr ""
+
+#: src-web/routes/public/casino/Components.jsx:230
+msgid "Tutti i giochi"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:438
+#: src-web/coupon/PrintCoupon.jsx:182
+msgid "Type"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/left-column/SearchEvent.jsx:73
+msgid "Understood"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:478
+msgid "Unit Stake"
+msgstr ""
+
+#: utils/payments.js:290
+msgid "Upload Receipt"
+msgstr ""
+
+#: src-web/components/Header.jsx:142
+msgid "User"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:18
+msgid "User Details"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:12
+msgid "User Information"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:105
+msgid "User Name"
+msgstr ""
+
+#: src-web/components/Header.jsx:258
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:315
+msgid "Username"
+msgstr ""
+
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:308
+#: src-web/routes/public/prematch/comps/middle-column/TournamentList.jsx:323
+msgid "View"
+msgstr ""
+
+#: src-web/routes/public/live/components/LiveMenu.jsx:83
+msgid "View1"
+msgstr ""
+
+#: src-web/routes/public/live/components/LiveMenu.jsx:90
+msgid "View2"
+msgstr ""
+
+#: utils/payments.js:113
+msgid "Voucher Code"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/AccountState.jsx:85
+msgid "Week"
+msgstr ""
+
+#: src-web/coupon/BetslipSettings.jsx:22
+msgid "When Odds Change"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:342
+#: src-web/coupon/PrintCoupon.jsx:191
+msgid "Winning"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/index.jsx:51
+msgid "Withdraw"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:752
+msgid "You need to login to be able to place a bet."
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:72
+msgid "You will soon be asked to confirm any changes."
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:97
+msgid "Your bet has been booked."
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:215
+msgid "Your bet has been declined."
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:153
+msgid "Your bet has been placed."
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:69
+msgid "Your bet is under approval."
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:212
+msgid "Your bet was not accepted."
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:100
+msgid "Your code is"
+msgstr ""
+
+#: src-web/routes/public/TransferMessage/index.jsx:61
+msgid "Your transaction finished."
+msgstr ""
+
+#: src-web/routes/public/TransferMessage/index.jsx:9
+msgid "Your transfer has failed."
+msgstr ""
+
+#: src-web/routes/public/TransferMessage/index.jsx:8
+msgid "Your transfer is completed. The fund will be balanced soon."
+msgstr ""
+
+#: src-web/routes/public/TransferMessage/index.jsx:10
+msgid "Your transfer was canceled."
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:15
+#~ msgid "accetazione"
+#~ msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:14
+#~ msgid "cancelled"
+#~ msgstr ""
+
+#: utils/payments.js:22
+msgid "deposit"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:13
+#~ msgid "lost"
+#~ msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Transfer.jsx:496
+msgid "money"
+msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:12
+#~ msgid "payed"
+#~ msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:11
+#~ msgid "played"
+#~ msgstr ""
+
+#: src-web/components/UserLoginPopUp/views/Betlist.jsx:16
+#~ msgid "reimburse"
+#~ msgstr ""
+
+#: src-web/coupon/Coupon.jsx:265
+msgid "remaining at placement"
+msgstr ""
+
+#: src-web/coupon/Coupon.jsx:261
+msgid "sec"
+msgstr ""
+
+#: utils/payments.js:21
+msgid "withdraw"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:185
+msgid "№ Col"
+msgstr ""
+
+#: src-web/coupon/PrintCoupon.jsx:173
+msgid "№ Events"
+msgstr ""
